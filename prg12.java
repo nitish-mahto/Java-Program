@@ -8,11 +8,14 @@ public class prg12 {
 
         System.out.print("Enter No :");
         int n = sc.nextInt();
-
+        int sum = 0;
         for (int i = 1; i <= n; i += 2) {
-            System.out.print(i + ",\t");
+            System.out.println(i);
+            // sum = sum + i;
+            // or //
+            sum += i;
         }
-
+        System.out.println("The Sum is : " + sum);
         sc.close();
     }
 }
