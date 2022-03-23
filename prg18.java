@@ -14,7 +14,7 @@ public class prg18 {
         int num2[][] = new int[r1][c1];
         int num3[][] = new int[r1][c1];
 
-        System.out.println("First Maxtrix");
+        System.out.println("First Matrix");
         System.out.println("=================");
         for (int i = 0; i < num1.length; i++) {
             for (int j = 0; j < num1[0].length; j++) {
@@ -24,7 +24,7 @@ public class prg18 {
             System.out.println();
         }
 
-        System.out.println("Second Maxtrix");
+        System.out.println("Second Matrix");
         System.out.println("=================");
         for (int i = 0; i < num2.length; i++) {
             for (int j = 0; j < num2[0].length; j++) {
@@ -34,7 +34,7 @@ public class prg18 {
             System.out.println();
         }
 
-        System.out.println("First Maxtrix");
+        System.out.println("First Matrix");
         System.out.println("=================");
         System.out.println("Matrix");
         for (int i = 0; i < num1.length; i++) {
@@ -44,7 +44,7 @@ public class prg18 {
             System.out.println();
         }
 
-        System.out.println("\nSecond Maxtrix");
+        System.out.println("\nSecond Matrix");
         System.out.println("=================");
 
         for (int i = 0; i < num2.length; i++) {
