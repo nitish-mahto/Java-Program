@@ -26,7 +26,7 @@ public class prg21 {
         System.out.println("Length of the String is :" + str.length());
         System.out.println("Upper Case : " + str.toUpperCase());
         System.out.println("Reverse String is : " + rev);
-        System.out.println("Upper Case : " + str.toLowerCase());
+        System.out.println("Lower Case : " + str.toLowerCase());
         System.out.println("No of Occurences of character a is : " + count);
         System.out.println("Capacity of the String is : " + str1.capacity());
         System.out.println("Substring : " + str.substring(0, 6));
